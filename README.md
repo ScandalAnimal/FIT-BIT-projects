@@ -1,5 +1,13 @@
 # FIT-BIT-projects
 
 ITO   14.5/15
+
 IUS 2 9/10
+
 IUS 3 16/20
+
+IZP 1 3/5
+
+IZP 2 9/10
+
+IZP 3 7/10
